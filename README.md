@@ -6,6 +6,8 @@
  This project implements an image detection system using Convolutional Neural Networks(CNN).
  
  It can classify and detect objects from images with high accuracy by leveraging data augmentation, custom CNN layers, and evaluation metrics such as accuracy, confusion matrix, and ROC curves.
+
+ [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JESHWIN1234567890/Object-detection---Human/blob/main/notebooks/image_detection.ipynb)
  
 
  
