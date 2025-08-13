@@ -1,9 +1,9 @@
-**🖼️ Image Detection using Convolutional Neural Network (CNN)** 
+**🖼️ Object Detection using Convolutional Neural Network (CNN)** 
 -------------------------------------------------------------
 
 📌 Overview
 --------------
- This project implements an image detection system using Convolutional Neural Networks(CNN).
+ This project implements an object detection system using Convolutional Neural Networks(CNN).
  
  It can classify and detect objects from images with high accuracy by leveraging data augmentation, custom CNN layers, and evaluation metrics such as accuracy, confusion matrix, and ROC curves.
 
